@@ -1,0 +1,16 @@
+{
+	"name": "jsLgVKeyboard",
+	"version": "2.2",
+	"authors": [
+		"Markiros <markiros@gmail.com>"
+	],
+	"description": "LG Smart TVs virtual keyboard NetCast platform",
+	"main": "LgVKeyboard.js",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
+}
