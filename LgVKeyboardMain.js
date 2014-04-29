@@ -1517,7 +1517,7 @@
                 if(!lgKb.bInitialized)
                 {
                     lgKb.bInitialized = true;
-                    lgKb.onInitialized();
+                    //lgKb.onInitialized();
                 }
             },
         toggleKeyChange :
